@@ -1,0 +1,10 @@
+{
+  "name": "s3-read-write-lambda",
+  "version": "1.0.0",
+  "description": "A Lambda function to read and write image metadata from an S3 bucket.",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1034.0",
+    "uuid": "^8.3.2"
+  }
+}
